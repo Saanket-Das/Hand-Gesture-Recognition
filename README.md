@@ -21,7 +21,7 @@ The Hand Gesture Recognition Software is an advanced system that detects and int
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hand-gesture-recognition.git
+   git clone https://github.com/Saanket-Das/Hand-Gesture-Recognition.git
    cd hand-gesture-recognition
    ```
 2. Run the software:
